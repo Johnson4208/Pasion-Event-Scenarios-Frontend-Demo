@@ -1,2 +1,3 @@
-# PASION Event Scenarios — Frontend Demo
-Standalone HTML, CSS and JavaScript. No backend, account data, API calls, live sources, or real forecasts. All percentages are illustrative mock values and sum to 100%.
+# PASION original frontend demo
+
+Static frontend built from the original React interface. Landing page, login, dashboard and navigation retain original components and styles. Sign in with demo@example.com and any sample password. All displayed data is illustrative; no backend or real accounts are connected.
